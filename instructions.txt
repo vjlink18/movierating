@@ -1,0 +1,29 @@
+1) Instructions
+
+Using the attached data file write a Hadoop map reduce program using Java that outputs the top rated movie and rating for each movie genre as follows. A description of the data within the ratings.dat file is given in the readme.txt file also attached. 
+
+Action Days of Thunder (1990) (4.87)
+
+2) Other Requirements
+
+a) All class files must be placed within a package called "edu.tamu.isys.ratings"
+
+b) You main method must be placed within a class called "Program"
+
+c) All class files must be exported to a jar file. The jar file must be named according to your UIN. For example, "1234567890.jar"
+
+3) Submitting Your Work
+
+Create a compressed file (a .zip file) of your entire src folder and jar file. The file should be named according to your UIN. For example, "1234567890.zip". Use the appropriate link to upload your compressed file through eCampus. An example of the compressed file contents is as follows.
+
+-src -> edu -> tamu -> isys ->ratings -> MyMapper.java (and so on)
+
+1234567890.jar
+
+4) Due Date
+
+You have approximately 48 hours to complete Part One. The compressed file with your program and jar is due on Wednesday morning at 8:00am. 
+
+5) Part Two (20/100 points)
+
+When you arrive in class on Wednesday you will complete part two of the practical exam. You will be required to answer up to four short answer questions in class regarding map reduce programs. You must bring a blue book and something to write with in order to complete this part of the practical exam.
